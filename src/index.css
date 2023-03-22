@@ -32,6 +32,7 @@ body {
 
 .user-form input {
   max-width: 800px;
+  min-width: 300px;
   display: block;
   background-color: var(--bg-secondary-color);
   border: none;
